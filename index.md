@@ -1,4 +1,4 @@
-##Welcome to the Martimex' homepage! 
+title: ##Welcome to the Martimex' homepage! 
 
 You can use the [editor on GitHub](https://github.com/Martimex/Mortimex.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
