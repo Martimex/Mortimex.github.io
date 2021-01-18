@@ -1,2 +1,2 @@
-# Mortimex.github.io
+# Martimex.github.io
 Getting Started with GitHub Pages
